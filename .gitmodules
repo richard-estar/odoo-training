@@ -9,3 +9,9 @@
 [submodule "enterprise"]
 	path = enterprise
 	url = https://github.com/ursais/enterprise
+[submodule "odoo/src/odoo"]
+	path = odoo/src/odoo
+	url = https://github.com/ursais/odoo
+[submodule "odoo/src/enterprise"]
+	path = odoo/src/enterprise
+	url = https://github.com/ursais/enterprise
